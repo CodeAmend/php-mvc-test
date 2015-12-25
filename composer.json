@@ -1,4 +1,8 @@
 {
+  "require": {
+    "twig/twig": "1.*"
+  },
+
   "autoload": {
     "classmap": [
       "app/core",
